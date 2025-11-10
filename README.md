@@ -1,5 +1,10 @@
-## Hi there 👋
+## What's up?! 👋, I'm Aldwin
 
+- 🔭 I’m currently working on ExamInsight, 
+- 🌱 I’m currently learning Python, Flask, FastAPI... anything related to web that challenges me.
+
+- CS Enthusiast. UAE-based expat. Educator + MIS student at UP Open University (🇵🇭)
+- 
 <!--
 **iam-awingsuma/iam-awingsuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
