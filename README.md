@@ -12,17 +12,14 @@ Hi there! 👋 I'm Aldwin — a passionate educator and developer who loves buil
 
 #### 🔗 Connect with me
 
-<a href="https://twitter.com/awingsuma" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
+<a href="https://twitter.com/awingsuma" target="_blank" style="text-decoration:none; display:inline-block; margin:0 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" height="35"/>
 </a>
-<a href="https://linkedin.com/in/aldwinsumalinog" target="_blank">
+<a href="https://linkedin.com/in/aldwinsumalinog" target="_blank" style="text-decoration:none; display:inline-block; margin:0 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-<a href="https://www.behance.net/aldwin-sumalinog" target="_blank">
+<a href="https://www.behance.net/aldwin-sumalinog" target="_blank" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40"/>
-</a>
-<a href="mailto:awingsuma@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>
 
 #### 🧰 My Toolbox
