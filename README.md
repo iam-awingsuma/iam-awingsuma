@@ -1,6 +1,14 @@
-## What's up?! 👋, I'm Aldwin
+# What's up?! 👋, I'm Aldwin
 
-- 🔭 I’m currently working on ExamInsight, a capstone project focusing on attainment and progress tracking of internal assessments and external benchmark tests of year 2 students.
+🔭 I’m currently working on ExamInsight, a capstone project focusing on attainment and progress tracking of internal assessments and external benchmark tests of year 2 students.
+
+# About Me 🤔💭
+
+Hi there! 👋 I'm Aldwin — a passionate educator and developer who loves building creative, data-driven tools that make learning smarter and more engaging. I enjoy working with Python, Flask, and SQLAlchemy to design intuitive dashboards like *ExamInsight* that help visualize student progress and achievement. When I’m not coding, I’m probably designing visuals, mentoring students, or experimenting with creative EdTech ideas.
+
+*Always learning, always sharing — let's collaborate and build something impactful!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=aldwinsumalinog&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
 #### 🔗 Connect with me
 
