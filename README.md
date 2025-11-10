@@ -10,9 +10,9 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aldwinsumalinog&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
-### 🔗 Connect with me
+## 🔗 Connect with me
 
-<p align="left" style="display:flex; justify-content:center;">
+<p align="left" style="display:flex; justify-content:center; align-items:center; gap:-10px;">
   <a href="https://twitter.com/awingsuma">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" height="35" alt="Twitter"/>
   </a>
@@ -24,9 +24,24 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
   </a>
 </p>
 
-### 🧰 My Toolbox
+## 📊 GitHub Analytics
 
-##### 🖥️ Programming & Development
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-awingsuma&show_icons=true&theme=tokyonight&hide_border=true" alt="Aldwin's GitHub Stats" height="180" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-awingsuma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<!-- Optional Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+## 🧰 My Tech Stack
+
+##### 🖥️ PROGRAMMING & DEVELOPMENT
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DA291C?style=for-the-badge&logo=python&logoColor=white)
@@ -35,20 +50,21 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-##### 📊 Data & Analytics
+##### 📊 DATA & ANALYTICS
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-##### ☁️ Platforms & Tools
+##### ☁️ PLATFORM & TOOLS
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-##### 🏫 Education & Creativity
+##### 🏫 EDUCATION & CREATIVITY
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -56,7 +72,7 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-##### 🧠 Classroom Innovation
+##### 🧠 CLASSROOM INNOVATION
 ![ExamInsight](https://img.shields.io/badge/ExamInsight-Analytics-blueviolet?style=for-the-badge)
 ![EAL Support](https://img.shields.io/badge/EAL-Learners-yellow?style=for-the-badge)
 ![UAE_MOE](https://img.shields.io/badge/UAE_MOE-Cultural_Integration-green?style=for-the-badge)
