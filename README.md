@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on ExamInsight, attainment and progress tracking of internal assessments and external benchmark tests of year 2 students.
 - 🌱 I’m currently learning Python, Flask, FastAPI... anything related to web that challenges me.
 - ⚡ Fun fact: ... CS Enthusiast. UAE-based expat. Educator + MIS student at UP Open University (🇵🇭)
-- <h4>Connect with me...</h4>
+- <h2>Connect with me...</h2>
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
 <!--
 **iam-awingsuma/iam-awingsuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
