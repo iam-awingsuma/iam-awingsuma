@@ -10,7 +10,7 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aldwinsumalinog&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
