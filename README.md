@@ -12,32 +12,25 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 
 ## 🔗 Connect with me
 
-<p align="left" style="display:flex; justify-content:center; align-items:center; gap:-10px;">
-  <a href="https://twitter.com/awingsuma">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" height="35" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/aldwinsumalinog">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.behance.net/aldwin-sumalinog">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" alt="Behance"/>
-  </a>
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-awingsuma&show_icons=true&theme=tokyonight&hide_border=true" alt="Aldwin's GitHub Stats" height="180" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-awingsuma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<!-- Optional Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=tokyo-night" alt="Activity Graph" />
-</p>
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+       <a href="https://twitter.com/awingsuma">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" height="35" alt="Twitter"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/aldwinsumalinog">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.behance.net/aldwin-sumalinog">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" alt="Behance"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🧰 My Tech Stack
 
@@ -76,6 +69,22 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 ![ExamInsight](https://img.shields.io/badge/ExamInsight-Analytics-blueviolet?style=for-the-badge)
 ![EAL Support](https://img.shields.io/badge/EAL-Learners-yellow?style=for-the-badge)
 ![UAE_MOE](https://img.shields.io/badge/UAE_MOE-Cultural_Integration-green?style=for-the-badge)
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-awingsuma&show_icons=true&theme=tokyonight&hide_border=true" alt="Aldwin's GitHub Stats" height="180" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-awingsuma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<!-- Optional Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
 
 <!--
 **iam-awingsuma/iam-awingsuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
