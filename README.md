@@ -10,21 +10,21 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aldwinsumalinog&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
-#### 🔗 Connect with me
+### 🔗 Connect with me
 
 <p align="left" style="display:flex; justify-content:center;">
-  <a href="https://twitter.com/awingsuma" target="_blank">
+  <a href="https://twitter.com/awingsuma">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" height="35" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/aldwinsumalinog" target="_blank">
+  <a href="https://linkedin.com/in/aldwinsumalinog">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.behance.net/aldwin-sumalinog" target="_blank">
+  <a href="https://www.behance.net/aldwin-sumalinog">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" alt="Behance"/>
   </a>
 </p>
 
-#### 🧰 My Toolbox
+### 🧰 My Toolbox
 
 ##### 🖥️ Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
