@@ -4,7 +4,7 @@
 
 # About Me 🤔💭
 
-Hi there! 👋 I'm Aldwin — a passionate educator and developer who loves building creative, data-driven tools that make learning smarter and more engaging. I enjoy working with Python, Flask, and SQLAlchemy to design intuitive dashboards like *ExamInsight* that help visualize student progress and achievement. When I’m not coding, I’m probably designing visuals, mentoring students, or experimenting with creative EdTech ideas.
+Hi there! 👋 This is Aldwin — a passionate educator and developer who loves building creative, data-driven tools that make learning smarter and more engaging. I enjoy working with Python, Flask, and SQLAlchemy to design intuitive dashboards like *ExamInsight* that help visualize student progress and achievement. When I’m not coding, I’m probably designing visuals, mentoring students, or experimenting with creative EdTech ideas.
 
 *Always learning, always sharing — let's collaborate and build something impactful!*
 
@@ -12,15 +12,17 @@ Hi there! 👋 I'm Aldwin — a passionate educator and developer who loves buil
 
 #### 🔗 Connect with me
 
-<a href="https://twitter.com/awingsuma" target="_blank" style="text-decoration:none; display:inline-block; margin:0 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" height="35"/>
-</a>
-<a href="https://linkedin.com/in/aldwinsumalinog" target="_blank" style="text-decoration:none; display:inline-block; margin:0 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.behance.net/aldwin-sumalinog" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40"/>
-</a>
+<p align="left" style="display:flex; justify-content:center;">
+  <a href="https://twitter.com/awingsuma" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" height="35" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/aldwinsumalinog" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.behance.net/aldwin-sumalinog" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" alt="Behance"/>
+  </a>
+</p>
 
 #### 🧰 My Toolbox
 
@@ -31,6 +33,7 @@ Hi there! 👋 I'm Aldwin — a passionate educator and developer who loves buil
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ##### 📊 Data & Analytics
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -50,6 +53,8 @@ Hi there! 👋 I'm Aldwin — a passionate educator and developer who loves buil
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Google Slides](https://img.shields.io/badge/Google_Slides-F4B400?style=for-the-badge&logo=google-slides&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ##### 🧠 Classroom Innovation
 ![ExamInsight](https://img.shields.io/badge/ExamInsight-Analytics-blueviolet?style=for-the-badge)
