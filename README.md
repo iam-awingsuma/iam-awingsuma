@@ -4,7 +4,7 @@
 
 # About Me 🤔💭
 
-Hi there! 👋 This is Aldwin — a passionate educator and developer who loves building creative, data-driven tools that make learning smarter and more engaging. I enjoy working with Python, Flask, and SQLAlchemy to design intuitive dashboards like *ExamInsight* that help visualize student progress and achievement. When I’m not coding, I’m probably designing visuals, mentoring students, or experimenting with creative EdTech ideas.
+Hi there! 👋 This is Aldwin — a passionate educator and developer who loves building creative, data-driven tools that make learning smarter and more engaging. I enjoy working with Python, Flask, and SQLAlchemy to design intuitive dashboards like *ExamInsight* that help visualize student progress and achievement. When I’m not coding, I’m probably designing visuals, mentoring students, experimenting with creative EdTech ideas or target-locked 🎯 on life’s sweetest pastime: spoiling, laughing, and living my best life with my one-and-only fave niece, our li'l munchkin, Amara Elisse 💛
 
 *Always learning, always sharing — let's collaborate and build something impactful!*
 
