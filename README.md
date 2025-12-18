@@ -1,6 +1,6 @@
 # What's up?! 👋, I'm Aldwin
 
-🔭 I’m currently working on ExamInsight, a capstone project focusing on attainment and progress tracking of internal assessments and external benchmark tests of year 2 students.
+🔭 I’m currently working on ExamInsight, a capstone project that aims to streamline the tracking of attainment and progress in Year 2 internal assessments and external benchmark tests.
 
 # About Me 🤔💭
 
