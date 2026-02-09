@@ -56,6 +56,8 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![OpenAI](https://img.shields.io/badge/ChatGPT-OpenAI-brightgreen?style=for-the-badge)
+
 
 ##### 🏫 EDUCATION & CREATIVITY
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
