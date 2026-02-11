@@ -12,19 +12,19 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 
 ## 🔗 Connect with Me
 
-<table cellspacing="0" cellpadding="0" border="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
        <a href="https://twitter.com/awingsuma">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" height="35" alt="Twitter"/>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://linkedin.com/in/aldwinsumalinog">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://www.behance.net/aldwin-sumalinog">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" alt="Behance"/>
       </a>
@@ -36,7 +36,7 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 
 ##### 🖥️ PROGRAMMING & DEVELOPMENT
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-215E61?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DA291C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
