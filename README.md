@@ -4,7 +4,7 @@
 
 # About Me 🤔💭
 
-Hi there! 👋 This is Aldwin — a passionate educator and developer who loves building creative, data-driven tools that make learning smarter and more engaging. I enjoy working with Python, Flask, and SQLAlchemy to design intuitive dashboards like *ExamInsight* that help visualize student progress and achievement. When I’m not coding, I’m probably designing visuals, mentoring students, experimenting with creative EdTech ideas or target-locked 🎯 on life’s sweetest pastime: spoiling, laughing, and living my best life with my one-and-only fave niece, our li'l munchkin, Amara Elisse 💛
+Hi there! 👋 This is Aldwin — a passionate educator and developer who loves building creative, data-driven tools, making learning smarter and more engaging. I enjoy working with Python, Flask, and SQLAlchemy to design intuitive dashboards like *ExamInsight* that help visualize student progress and achievement. When I’m not coding, I’m probably designing visuals, mentoring students, experimenting with creative EdTech ideas or target-locked 🎯 on life’s sweetest pastime: spoiling, laughing, and living my best life with my one-and-only fave niece, our li'l munchkin, Amara Elisse 💛
 
 *Always learning, always sharing — let's collaborate and build something impactful!*
 
@@ -31,6 +31,22 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
     </td>
   </tr>
 </table>
+
+## 🚀 Featured Project
+
+### 📊 ExamInsight – Assessment Analytics Platform
+
+ExamInsight is a **data-driven analytics platform** designed to help educators analyze internal and external assessment results through interactive dashboards.
+
+🔹 Key Features
+- 📈 Interactive dashboards using **Plotly**
+- 🧑‍🎓 Student performance analytics
+- 📊 Cohort and class comparisons
+- 🔍 Filters by gender, class, and assessment
+- ⚡ Built with **Flask + SQLAlchemy**
+
+🔗 GitHub Repository  
+https://github.com/iam-awingsuma/ExamInsight
 
 ## 🧰 My Tech Stack
 
@@ -73,20 +89,10 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 ![UAE_MOE](https://img.shields.io/badge/UAE_MOE-Cultural_Integration-green?style=for-the-badge)
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-awingsuma&show_icons=true&theme=tokyonight&hide_border=true" alt="Aldwin's GitHub Stats" height="180" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-awingsuma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
 <!-- Optional Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=tokyo-night" alt="Activity Graph" />
 </p>
-
 
 <!--
 **iam-awingsuma/iam-awingsuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
