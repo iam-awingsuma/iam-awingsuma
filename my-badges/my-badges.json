@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/iam-awingsuma/cmsc_204/commit/a4d78476d92d9a6c924e525b396b25dc0dd99d25\"><strong>a</strong>4d78476d92d9a6c924e525b396b25dc0dd99d25</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/ab7caedb8adade4979f4f674b27615d096b88a21\"><strong>ab</strong>7caedb8adade4979f4f674b27615d096b88a21</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/d3c1deaeffb62a8ddfb0de2b29c04cdc9be5f6f4\">d3c1dea</a>: chore: comment out default admin credentials in README for security",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/5b746f4c2ace3657d5036e30c85a799981310d6e\">5b746f4</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 54 times)\n2. refactor (used 51 times)\n3. codebase (used 51 times)\n4. data (used 40 times)\n5. progress (used 37 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/8033e04f190bbd5062895544bcb4736f346c11e9\">8033e04</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/0e381adcfcdbdff26dba520172b9f98ad202919b\">0e381ad</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/73508d671d0653044edb709965e689dcfa5067f8\">73508d6</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/a407b6559f5521cb8e6ac9b72e018df75fac7699\">a407b65</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/7339a379bc736ad7a424fac8cdce14c18b873b60\">7339a37</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/ebb79dc6192bb3d1188a1f497cbd212d51d84522\">ebb79dc</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/7642f7543645b24544c2547e73cc4610c5e96f42\">7642f75</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/92d69b135483d14e97b7aaa84b7fe3266e1c545d\">92d69b1</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/fa2c03f37c5b44a3e2c794a64e071e71a96ada67\">fa2c03f</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/121102c90eea16404ba881b179bf5fbd63f070af\">121102c</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/cffeef990268f9fdb9a38e13ccd1ee6d8fbd6618\">cffeef9</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/ed2cff132dbdc2dcdf27e8f4bb9c508625cc4a6d\">ed2cff1</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/f2b6564e7138e8bdf6b85de457d437ebed064cc9\">f2b6564</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/37e4ac06e4e579be48290f8f1a20c1f2c69bc964\">37e4ac0</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/509e4bea03872eb664268a17aed18175441824ad\">509e4be</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/230e88fd97da0375fd632bf1e8d0947ce501dd48\">230e88f</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/6fea1d1853f93e6a3356fa083e76710665e3dd28\">6fea1d1</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/355c77f264f057a6bba9d0d7db8b45f67a73d939\">355c77f</a>\n- <a href=\"https://github.com/iam-awingsuma/route-optimization-graphds/commit/4d4ddf215bded04339be5b57d5f9b510fcf20375\">4d4ddf2</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/3cb0762138bf48e9a9aefa3e7a93fea192d1d6ff\">3cb0762</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/9c6b6b747b5d960a6afaef9db0d34431850fb06a\">9c6b6b7</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/1ada1305795c0e5f28570044b664c2cab1cff040\">1ada130</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/c58c72fa7d9e8c6010f1b5eb966644fbc4d49a3c\">c58c72f</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/44b09b277ffd3afb3bf1958e5727858ebb44cb31\">44b09b2</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/63098d26631064645f9ead05de0bcab543a7357a\">63098d2</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/d4f6e234fe48a5072e60906eb33255c26d2af991\">d4f6e23</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/2849d27e124739ad5e2978769630231c43b4cb61\">2849d27</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/262f5028dbd45d16bec4829e6f7a9f37337c96e3\">262f502</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
