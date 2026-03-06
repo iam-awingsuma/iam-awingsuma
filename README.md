@@ -87,12 +87,6 @@ https://github.com/iam-awingsuma/ExamInsight
 ![EAL Support](https://img.shields.io/badge/EAL-Learners-yellow?style=for-the-badge)
 ![UAE_MOE](https://img.shields.io/badge/UAE_MOE-Cultural_Integration-green?style=for-the-badge)
 
-## 📊 GitHub Analytics
-<!-- Optional Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
 ## 📔 Github Badges
 <!-- my-badges start -->
 <p align="center">
@@ -109,3 +103,9 @@ https://github.com/iam-awingsuma/ExamInsight
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 </p>
 <!-- my-badges end -->
+
+## 📊 GitHub Analytics
+<!-- Optional Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=tokyo-night" alt="Activity Graph" />
+</p>
