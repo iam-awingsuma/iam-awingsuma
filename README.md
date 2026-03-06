@@ -74,7 +74,6 @@ https://github.com/iam-awingsuma/ExamInsight
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/ChatGPT-OpenAI-brightgreen?style=for-the-badge)
 
-
 ##### 🏫 EDUCATION & CREATIVITY
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -94,6 +93,7 @@ https://github.com/iam-awingsuma/ExamInsight
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
+## 📔 Github Badges
 <!-- my-badges start -->
 <p align="center">
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
