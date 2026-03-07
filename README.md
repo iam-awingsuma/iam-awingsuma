@@ -1,6 +1,6 @@
 # What's up?! 👋, I'm Aldwin
 
-🔭 I’m currently based in Dubai, United Arab Emirates and am working on ExamInsight, a capstone project that aims to streamline the tracking of attainment and progress in Year 2 internal assessments and external benchmark tests.
+🔭 I’m currently based in Dubai, United Arab Emirates and is working on ExamInsight, a capstone project that aims to streamline the tracking of attainment and progress in Year 2 internal assessments and external benchmark tests.
 
 # About Me 🤔💭
 
