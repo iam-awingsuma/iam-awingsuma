@@ -1,4 +1,4 @@
-# What's up?! 👋, I'm Aldwin
+# What's up?! 👋, I'm Aldwin, based in 🇦🇪
 
 🔭 I’m currently working on ExamInsight, a capstone project that aims to streamline the tracking of attainment and progress in Year 2 internal assessments and external benchmark tests.
 
