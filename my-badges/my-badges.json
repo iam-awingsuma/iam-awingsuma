@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 54 times)\n2. refactor (used 51 times)\n3. codebase (used 51 times)\n4. progress (used 40 times)\n5. data (used 40 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 62 times)\n2. refactor (used 51 times)\n3. codebase (used 51 times)\n4. analytics (used 49 times)\n5. progress (used 47 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/e6815e638ba94c0fd02f517eaada93d5a4977270\">e6815e6</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/3cb0762138bf48e9a9aefa3e7a93fea192d1d6ff\">3cb0762</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/9c6b6b747b5d960a6afaef9db0d34431850fb06a\">9c6b6b7</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/1ada1305795c0e5f28570044b664c2cab1cff040\">1ada130</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/c58c72fa7d9e8c6010f1b5eb966644fbc4d49a3c\">c58c72f</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/44b09b277ffd3afb3bf1958e5727858ebb44cb31\">44b09b2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/f60bb5e95344ba6217157c6be2db9c8bf1540112\">f60bb5e</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/87f3970d488aaa0556f90f5935a82f17b4708c6e\">87f3970</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/190f0e4e54f222cdbe1fcf3301a9f84c0d22d0da\">190f0e4</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/49f1053d923330b7b02c48ef55eecf0ac4bc94b0\">49f1053</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/391433036ec4cb7854b075eb40ad9efdf67c0235\">3914330</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/e831fa3d4f95bfc7370ce09fdf7f690a45f280da\">e831fa3</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -75,5 +75,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/d4f6e234fe48a5072e60906eb33255c26d2af991\">d4f6e23</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/2849d27e124739ad5e2978769630231c43b4cb61\">2849d27</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/262f5028dbd45d16bec4829e6f7a9f37337c96e3\">262f502</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/391433036ec4cb7854b075eb40ad9efdf67c0235\">3914330</a>: fix: correct button include path and update chart icon for consistency in external analytics templates\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/e831fa3d4f95bfc7370ce09fdf7f690a45f280da\">e831fa3</a>: fix: update color scheme for NGRT-C assessment data badges and cards for better visibility",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]
