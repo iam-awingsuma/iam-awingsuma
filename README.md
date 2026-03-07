@@ -1,4 +1,4 @@
-# What's up?! 👋, I'm Aldwin, based in 🇦🇪
+# What's up?! 👋, I'm Aldwin, currently based in Dubai, United Arab Emirates.
 
 🔭 I’m currently working on ExamInsight, a capstone project that aims to streamline the tracking of attainment and progress in Year 2 internal assessments and external benchmark tests.
 
