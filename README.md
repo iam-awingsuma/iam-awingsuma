@@ -2,7 +2,7 @@
 
 🔭 I’m currently based in Dubai, United Arab Emirates and is working on ExamInsight, a capstone project that aims to streamline the tracking of attainment and progress in Year 2 internal assessments and external benchmark tests.
 
-# About Me 🤔💭
+## 🌟💭 About Me
 
 Hi there! 👋 This is Aldwin — a passionate educator and developer who loves building creative, data-driven tools, making learning smarter and more engaging. I enjoy working with Python, Flask, and SQLAlchemy to design intuitive dashboards like *ExamInsight* that help visualize student progress and achievement. When I’m not coding, I’m probably designing visuals, mentoring students, experimenting with creative EdTech ideas or target-locked 🎯 on life’s sweetest pastime: spoiling, laughing, and living my best life with my one-and-only fave niece, our li'l munchkin, Amara Elisse 💛
 
@@ -32,7 +32,7 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
   </tr>
 </table>
 
-## 🚀 Featured Project
+## 💡 Featured Project
 
 ### 📊 ExamInsight – Assessment Analytics Platform
 
@@ -45,7 +45,7 @@ ExamInsight is a **data-driven analytics platform** designed to help educators a
 - 🔍 Filters by gender, class, and assessment
 - ⚡ Built with **Flask + SQLAlchemy**
 
-🔗 GitHub Repository  
+🚀 GitHub Repository  
 https://github.com/iam-awingsuma/ExamInsight
 
 ## 🧰 My Tech Stack
