@@ -102,6 +102,8 @@ https://github.com/iam-awingsuma/ExamInsight
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
+<a href="my-badges/fix-3.md"><img src="https://my-badges.github.io/my-badges/fix-3.png" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
+<a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
 <!-- my-badges end -->
 </p>
 

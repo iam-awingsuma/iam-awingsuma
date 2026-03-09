@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 66 times)\n2. attainment (used 56 times)\n3. group (used 54 times)\n4. year (used 52 times)\n5. refactor (used 52 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 71 times)\n2. progress (used 65 times)\n3. attainment (used 60 times)\n4. year (used 59 times)\n5. group (used 59 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/2a8fd7e61ea9955daf167d4ebe87828488d777e0\">2a8fd7e</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/f60bb5e95344ba6217157c6be2db9c8bf1540112\">f60bb5e</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/87f3970d488aaa0556f90f5935a82f17b4708c6e\">87f3970</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/190f0e4e54f222cdbe1fcf3301a9f84c0d22d0da\">190f0e4</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/49f1053d923330b7b02c48ef55eecf0ac4bc94b0\">49f1053</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/391433036ec4cb7854b075eb40ad9efdf67c0235\">3914330</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/a4fef0e4fa6d4aa91b12a6fa86b62bedc63d9588\">a4fef0e</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/c0ea4c6c2d22a5cbbc4ce2e0520c27851b2ab1f7\">c0ea4c6</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/2a8fd7e61ea9955daf167d4ebe87828488d777e0\">2a8fd7e</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/f60bb5e95344ba6217157c6be2db9c8bf1540112\">f60bb5e</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/87f3970d488aaa0556f90f5935a82f17b4708c6e\">87f3970</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/190f0e4e54f222cdbe1fcf3301a9f84c0d22d0da\">190f0e4</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -82,5 +82,19 @@
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/391433036ec4cb7854b075eb40ad9efdf67c0235\">3914330</a>: fix: correct button include path and update chart icon for consistency in external analytics templates\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/e831fa3d4f95bfc7370ce09fdf7f690a45f280da\">e831fa3</a>: fix: update color scheme for NGRT-C assessment data badges and cards for better visibility",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/24bf5fde2a087262fac1a7fad72189f630ce6591\">24bf5fd</a>: fix: remove unnecessary blank line before renderYearGroupGenderProgressThresholdBars function\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/dd017ee3571a3c422c0e2d9d1ad484b698404397\">dd017ee</a>: fix: remove unnecessary blank line before renderYearGroupGenderProgressThresholdBars function\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/07fd6450e02fd53d4ef6f332751c6af7a28bbf08\">07fd645</a>: fix: remove unnecessary blank line before renderYearGroupGenderProgressThresholdBars function",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/ccadd9903f32bde2b1c5a40d179d75f2a1b2d35a\">ccadd99</a>: fix: update attainment comparison labels for consistency and improved readability across analytics templates\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/f2b762a6da1eb851016df85d956fb284726a159a\">f2b762a</a>: fix: update \"Curriculum Standard\" to \"Curriculum Standards\" for consistency across analytics templates\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/df5a8e25542d53d41f284fa50a944a4759884863\">df5a8e2</a>: fix: update background classes for consistency in Gender Attainment and Progress analysis sections\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/fda4dab72d60c3dd11bc7ebf215dac9f279230ed\">fda4dab</a>: fix: update \"Gender-specific Attainment Analysis\" to \"Gender Attainment Analysis\" for consistency across analytics templates",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   }
 ]
