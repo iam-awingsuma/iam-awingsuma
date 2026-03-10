@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 71 times)\n2. progress (used 65 times)\n3. attainment (used 60 times)\n4. year (used 59 times)\n5. group (used 59 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 79 times)\n2. progress (used 65 times)\n3. year (used 61 times)\n4. group (used 60 times)\n5. attainment (used 60 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/391433036ec4cb7854b075eb40ad9efdf67c0235\">3914330</a>: fix: correct button include path and update chart icon for consistency in external analytics templates\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/e831fa3d4f95bfc7370ce09fdf7f690a45f280da\">e831fa3</a>: fix: update color scheme for NGRT-C assessment data badges and cards for better visibility",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/b8c15ed36fad120ef2fae6d59fef87db0d2e979a\">b8c15ed</a>: fix: increase activity graph image width for improved visibility\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/ad6f7438c168fc651bf104d3499a35a25e8ba686\">ad6f743</a>: fix: adjust activity graph image width for better visibility",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -96,5 +96,12 @@
     "desc": "I did 4 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/ccadd9903f32bde2b1c5a40d179d75f2a1b2d35a\">ccadd99</a>: fix: update attainment comparison labels for consistency and improved readability across analytics templates\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/f2b762a6da1eb851016df85d956fb284726a159a\">f2b762a</a>: fix: update \"Curriculum Standard\" to \"Curriculum Standards\" for consistency across analytics templates\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/df5a8e25542d53d41f284fa50a944a4759884863\">df5a8e2</a>: fix: update background classes for consistency in Gender Attainment and Progress analysis sections\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/fda4dab72d60c3dd11bc7ebf215dac9f279230ed\">fda4dab</a>: fix: update \"Gender-specific Attainment Analysis\" to \"Gender Attainment Analysis\" for consistency across analytics templates",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 8 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/7ae282f8e40075a6b7e59128837f7122cbb5338b\">7ae282f</a>: fix: clean up head.html and base.html by commenting out unused links and scripts\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/5af9796a688d9660c1375f4acfee2cf3b5e81247\">5af9796</a>: fix: add newline at end of file for consistency\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/b30f867426097a4797af1a42a5e074a45c13a065\">b30f867</a>: fix: update student display to include gender icons for improved clarity\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/935afd60a139bca259c652e01dc07736ab3d8526\">935afd6</a>: fix: update student display to include gender icons for improved clarity\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/6926127458d3191845a8fbfa7ef9022f8d90c2b8\">6926127</a>: fix: update gender icon sources for improved visual representation\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/c0fe4c12ff0e2f35824a583ecde45803dccce1d8\">c0fe4c1</a>: fix: update image margins for better alignment in button layout\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/e916e54160a8e6fdb62ba31315cf982e1c7cfdef\">e916e54</a>: fix: update button padding and image sources for improved UI consistency\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/633f7f48b73c0bb9ad9fe44421b28e07136db973\">633f7f4</a>: fix: update button styles for improved alignment and spacing",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   }
 ]
