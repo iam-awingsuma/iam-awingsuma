@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/b8c15ed36fad120ef2fae6d59fef87db0d2e979a">b8c15ed</a>: fix: increase activity graph image width for improved visibility
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/ad6f7438c168fc651bf104d3499a35a25e8ba686">ad6f743</a>: fix: adjust activity graph image width for better visibility
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/327b64e983d6e210786140e4ccd27dca79148ccc">327b64e</a>: fix: update system architecture diagram image size and source for better clarity
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/b385ab3cff83fa2ee35bf74757f5d2038d32b65c">b385ab3</a>: fix: adjust dashboard card image width for better layout consistency
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

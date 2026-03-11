@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/24bf5fde2a087262fac1a7fad72189f630ce6591">24bf5fd</a>: fix: remove unnecessary blank line before renderYearGroupGenderProgressThresholdBars function
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/dd017ee3571a3c422c0e2d9d1ad484b698404397">dd017ee</a>: fix: remove unnecessary blank line before renderYearGroupGenderProgressThresholdBars function
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/07fd6450e02fd53d4ef6f332751c6af7a28bbf08">07fd645</a>: fix: remove unnecessary blank line before renderYearGroupGenderProgressThresholdBars function
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/5b7ceec54a469bdd2f546169e297042e81f90fd4">5b7ceec</a>: fix: replace static content with included template for student insights in analytics pages
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/b8c15ed36fad120ef2fae6d59fef87db0d2e979a">b8c15ed</a>: fix: increase activity graph image width for improved visibility
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/ad6f7438c168fc651bf104d3499a35a25e8ba686">ad6f743</a>: fix: adjust activity graph image width for better visibility
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

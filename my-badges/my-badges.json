@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 79 times)\n2. progress (used 65 times)\n3. year (used 61 times)\n4. group (used 60 times)\n5. attainment (used 60 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 86 times)\n2. analytics (used 75 times)\n3. add (used 73 times)\n4. progress (used 65 times)\n5. year (used 64 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,14 +80,14 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/b8c15ed36fad120ef2fae6d59fef87db0d2e979a\">b8c15ed</a>: fix: increase activity graph image width for improved visibility\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/ad6f7438c168fc651bf104d3499a35a25e8ba686\">ad6f743</a>: fix: adjust activity graph image width for better visibility",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/327b64e983d6e210786140e4ccd27dca79148ccc\">327b64e</a>: fix: update system architecture diagram image size and source for better clarity\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/b385ab3cff83fa2ee35bf74757f5d2038d32b65c\">b385ab3</a>: fix: adjust dashboard card image width for better layout consistency",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/24bf5fde2a087262fac1a7fad72189f630ce6591\">24bf5fd</a>: fix: remove unnecessary blank line before renderYearGroupGenderProgressThresholdBars function\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/dd017ee3571a3c422c0e2d9d1ad484b698404397\">dd017ee</a>: fix: remove unnecessary blank line before renderYearGroupGenderProgressThresholdBars function\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/07fd6450e02fd53d4ef6f332751c6af7a28bbf08\">07fd645</a>: fix: remove unnecessary blank line before renderYearGroupGenderProgressThresholdBars function",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/5b7ceec54a469bdd2f546169e297042e81f90fd4\">5b7ceec</a>: fix: replace static content with included template for student insights in analytics pages\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/b8c15ed36fad120ef2fae6d59fef87db0d2e979a\">b8c15ed</a>: fix: increase activity graph image width for improved visibility\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/ad6f7438c168fc651bf104d3499a35a25e8ba686\">ad6f743</a>: fix: adjust activity graph image width for better visibility",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
