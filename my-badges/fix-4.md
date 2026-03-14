@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/ccadd9903f32bde2b1c5a40d179d75f2a1b2d35a">ccadd99</a>: fix: update attainment comparison labels for consistency and improved readability across analytics templates
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/f2b762a6da1eb851016df85d956fb284726a159a">f2b762a</a>: fix: update "Curriculum Standard" to "Curriculum Standards" for consistency across analytics templates
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/df5a8e25542d53d41f284fa50a944a4759884863">df5a8e2</a>: fix: update background classes for consistency in Gender Attainment and Progress analysis sections
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/fda4dab72d60c3dd11bc7ebf215dac9f279230ed">fda4dab</a>: fix: update "Gender-specific Attainment Analysis" to "Gender Attainment Analysis" for consistency across analytics templates
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/c7b8676a37271df119b0ec97a1f9f0e2870ad513">c7b8676</a>: fix: format student name in AI analysis and update title styling for consistency
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/826672369bbc508fec05ee3b94306e1f49c83cb6">8266723</a>: fix: update AI analysis title formatting for consistency
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/91610c70dbc90ed89a9a96f16c934617cd1b10da">91610c7</a>: fix: update AI analysis label styling for improved visibility
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/7731a10025be472d7e87407989d7cdaead78de15">7731a10</a>: fix: update AI analysis title styling for better visibility
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
