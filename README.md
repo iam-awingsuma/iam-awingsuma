@@ -43,7 +43,7 @@ ExamInsight is a **data-driven analytics platform** designed to help educators a
 - 🧑‍🎓 Student performance analytics
 - 📊 Cohort, class and gender performance comparisons
 - 🔍 Filters by assessment >> gender, class, and student (indv)
-- ⚡ Built with **Python + Flask + SQLAlchemy with HTML+Bootstrap+JavaScript**
+- ⚡ Built with **Python + Flask + SQLAlchemy with HTML + Bootstrap + JavaScript**
 
 🚀 GitHub Repository  
 https://github.com/iam-awingsuma/ExamInsight
