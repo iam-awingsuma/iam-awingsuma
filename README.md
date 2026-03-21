@@ -53,7 +53,9 @@ https://github.com/iam-awingsuma/ExamInsight
 ## 🧰 My Tech Stack
 
 ##### 🖥️ PROGRAMMING & DEVELOPMENT
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50"/>
+
 ![Flask](https://img.shields.io/badge/Flask-215E61?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DA291C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
