@@ -13,16 +13,28 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 ## 🔗 Connect with Me
 
 <div align="left">
-  <a href="https://x.com/awingsumaEDUx" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" height="35" alt="Twitter"/>
-  </a>
-  &emsp;
-  <a href="https://linkedin.com/in/aldwinsumalinog" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &emsp;
-  <a href="https://www.behance.net/aldwin-sumalinog" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" alt="Behance"/>
+  <a href="https://x.com/awingsumaEDUx" target="_blank">
+    <span>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png"
+        width="35"
+        style="background:black; border-radius:8px; padding:5px; border:0;" alt="X"/>
+    </span>
+  </a>&emsp;
+  <a href="https://linkedin.com/in/aldwinsumalinog" target="_blank">
+    <span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+           width="40"
+           style="border:0;"
+           alt="LinkedIn"/>
+    </span>
+  </a>&emsp;
+  <a href="https://www.behance.net/aldwin-sumalinog" target="_blank">
+    <span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"
+           width="40"
+           style="border:0;"
+           alt="Behance"/>
+    </span>
   </a>
 </div>
 
@@ -48,13 +60,13 @@ https://github.com/iam-awingsuma/ExamInsight
 
 ##### 🖥️ PROGRAMMING & DEVELOPMENT
 <div align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="50" height="50"/>&emsp;
-  <img src="https://camo.githubusercontent.com/31e76367477f94271a897b5d58f1281c4413491958ec21412f4515f1140a07d6/68747470733a2f2f68616f73747265696e616d656e746f732e636f6d2e62722f696d616765732f637572736f732f53716c2e706e67" alt="SQLAlchemy" width="50" height="50"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="50" height="50"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="50" height="50"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="60" height="60"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="60" height="60"/>&emsp;
+  <img src="https://camo.githubusercontent.com/31e76367477f94271a897b5d58f1281c4413491958ec21412f4515f1140a07d6/68747470733a2f2f68616f73747265696e616d656e746f732e636f6d2e62722f696d616765732f637572736f732f53716c2e706e67" alt="SQLAlchemy" width="60" height="60"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="60" height="60"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="60" height="60"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript" width="60" height="60"/>
 </div>
 
 ##### 📊 DATA & ANALYTICS
