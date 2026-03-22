@@ -114,17 +114,12 @@ https://github.com/iam-awingsuma/ExamInsight
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=react-dark&line=5c00e6&point=00ffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
-<img>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph.svg">
-</img>
-
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph.svg" 
-    alt="Pac-Man contribution graph" 
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 <p align="center">
@@ -132,9 +127,9 @@ https://github.com/iam-awingsuma/ExamInsight
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-awingsuma&theme=dracula&utcOffset=-3" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iam-awingsuma&theme=dracula" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iam-awingsuma&theme=dracula" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-awingsuma&theme=dracula" />
-    <br>  
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-awingsuma&theme=dracula&utcOffset=-3" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iam-awingsuma&theme=dracula" />
+  <br/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iam-awingsuma&theme=dracula" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-awingsuma&theme=dracula" />
 </p>
