@@ -78,14 +78,15 @@ https://github.com/iam-awingsuma/ExamInsight
 </div>
 
 ##### ☁️ PLATFORM & TOOLS
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![OpenAI](https://img.shields.io/badge/ChatGPT-OpenAI-brightgreen?style=for-the-badge)
+<div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="Github" width="60" height="60"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="60" height="60"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="AWS" width="60" height="60"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Light.svg" alt="Ubuntu" width="60" height="60"/>&emsp;
+</div>
 
 ##### 🏫 EDUCATION & CREATIVITY
+![OpenAI](https://img.shields.io/badge/ChatGPT-OpenAI-brightgreen?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
