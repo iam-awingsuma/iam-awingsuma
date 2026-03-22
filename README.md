@@ -71,11 +71,10 @@ https://github.com/iam-awingsuma/ExamInsight
 
 ##### 📊 DATA & ANALYTICS
 <div align="left">
-  <img src="https://studyopedia.com/wp-content/uploads/2023/07/Plotly-Python-Library.jpg" alt="Plotly" width="120" height="120"/>&emsp;
-  <img src="https://images.decodo.com/Python_Pandas_1_cc44acf7dc/Python_Pandas_1_cc44acf7dc.png" alt="Pandas" width="120" height="120"/>&emsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATQ5jq15VLk1upQV8mw7t6SKRh1bAfWbDyg&s" alt="SQLite" width="100" height="100"/>&emsp;
-  <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" alt="Excel" width="60" height="60"/>&emsp;
-  <img src="https://img.icons8.com/?size=100&id=IDVA0ZyMcN0o&format=png&color=000000" alt="Google Spreadsheets" width="60" height="60"/>&emsp;
+  <img src="images/plotly.jpg" alt="Plotly" width="100" height="100"/>&emsp;
+  <img src="images/pandas.png" alt="Pandas" width="100" height="100"/>&emsp;
+  <img src="images/sqlite.png" alt="SQLite" width="100" height="100"/>&emsp;
+  <img src="images/excel.png" alt="Excel" width="80" height="80"/>&emsp;
 </div>
 
 ##### ☁️ PLATFORM & TOOLS
