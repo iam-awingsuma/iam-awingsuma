@@ -12,25 +12,19 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 
 ## 🔗 Connect with Me
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-       <a href="https://twitter.com/awingsuma">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" height="35" alt="Twitter"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://linkedin.com/in/aldwinsumalinog">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://www.behance.net/aldwin-sumalinog">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" alt="Behance"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <a href="https://x.com/awingsumaEDUx" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" height="35" alt="Twitter"/>
+  </a>
+  &emsp;
+  <a href="https://linkedin.com/in/aldwinsumalinog" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &emsp;
+  <a href="https://www.behance.net/aldwin-sumalinog" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40" alt="Behance"/>
+  </a>
+</div>
 
 ## 💡 Featured Project
 
@@ -53,15 +47,15 @@ https://github.com/iam-awingsuma/ExamInsight
 ## 🧰 My Tech Stack
 
 ##### 🖥️ PROGRAMMING & DEVELOPMENT
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50"/>
-
-![Flask](https://img.shields.io/badge/Flask-215E61?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DA291C?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="50" height="50"/>&emsp;
+  <img src="https://camo.githubusercontent.com/31e76367477f94271a897b5d58f1281c4413491958ec21412f4515f1140a07d6/68747470733a2f2f68616f73747265696e616d656e746f732e636f6d2e62722f696d616765732f637572736f732f53716c2e706e67" alt="SQLAlchemy" width="50" height="50"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="50" height="50"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="50" height="50"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50"/>&emsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript" width="50" height="50"/>
+</div>
 
 ##### 📊 DATA & ANALYTICS
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -117,5 +111,30 @@ https://github.com/iam-awingsuma/ExamInsight
 ## 📊 GitHub Analytics
 <!-- Optional Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-awingsuma&theme=react-dark&line=5c00e6&point=00ffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<img>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph.svg">
+</img>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/iam-awingsuma/iam-awingsuma/output/pacman-contribution-graph.svg" 
+    alt="Pac-Man contribution graph" 
+  />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-awingsuma&theme=dracula" width="100%" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-awingsuma&theme=dracula&utcOffset=-3" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iam-awingsuma&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iam-awingsuma&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-awingsuma&theme=dracula" />
+    <br>  
 </p>
