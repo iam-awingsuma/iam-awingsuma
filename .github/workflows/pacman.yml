@@ -1,11 +1,15 @@
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   generate:
@@ -21,9 +25,8 @@ jobs:
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
