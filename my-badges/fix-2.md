@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/327b64e983d6e210786140e4ccd27dca79148ccc">327b64e</a>: fix: update system architecture diagram image size and source for better clarity
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/b385ab3cff83fa2ee35bf74757f5d2038d32b65c">b385ab3</a>: fix: adjust dashboard card image width for better layout consistency
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/6b292cffa624d6c6a43418f69a65db645c45b3eb">6b292cf</a>: fix: update NGRT button label for clarity and improve tab hover styles
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/b771894863e09c7963d59123c4098d6fa5bf58f1">b771894</a>: fix: update AI recommendations icon URL for consistency
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
