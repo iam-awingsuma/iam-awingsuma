@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/6b292cffa624d6c6a43418f69a65db645c45b3eb">6b292cf</a>: fix: update NGRT button label for clarity and improve tab hover styles
-- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/b771894863e09c7963d59123c4098d6fa5bf58f1">b771894</a>: fix: update AI recommendations icon URL for consistency
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/d83e61b93aee402c9ecb7e61715739b6509309fb">d83e61b</a>: fix: remove redundant text from progress category distribution card
+- <a href="https://github.com/iam-awingsuma/ExamInsight/commit/744467cefe7fa3f50b19d2e6db65d40561f784e4">744467c</a>: fix: remove redundant text from attainment distribution card
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
