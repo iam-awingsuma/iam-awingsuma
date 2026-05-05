@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 127 times)\n2. add (used 100 times)\n3. analytics (used 96 times)\n4. progress (used 75 times)\n5. attainment (used 73 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 127 times)\n2. add (used 101 times)\n3. analytics (used 96 times)\n4. progress (used 75 times)\n5. attainment (used 73 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -117,5 +117,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/a87e93252f525f405fa6f5c89d2345bc26a40cd2\">a87e932</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/aa8d56324691b767779c5fa80e6a6f02862808d8\">aa8d563</a>\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/3d3973bdd1e4eca34516c0ac49d366d1637b39bb\">3d3973b</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/iam-awingsuma/ExamInsight/commit/6d7d18a30c61dab4b96a96cf1a44c47eac30b861\">6d7d18a</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   }
 ]
