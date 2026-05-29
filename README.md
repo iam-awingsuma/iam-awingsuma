@@ -11,20 +11,11 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 ![Profile Views](https://komarev.com/ghpvc/?username=aldwinsumalinog&label=Profile%20views&color=blueviolet&style=for-the-badge)
 
 ## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://x.com/awingsumaEDUx" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" />
-  </a>
-
-  <a href="https://linkedin.com/in/aldwinsumalinog" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" />
-  </a>
-
-  <a href="https://www.behance.net/aldwin-sumalinog" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=behance&titles=true" />
-  </a>
-</p>
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x&titles=true)](https://x.com/awingsumaEDU)
+&emsp;&emsp;
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://linkedin.com/in/aldwinsumalinog)
+&emsp;&emsp;
+[![Behance](https://go-skill-icons.vercel.app/api/icons?i=behance&titles=true)](https://www.behance.net/aldwin-sumalinog)
 
 ## 💡 Featured Project
 
