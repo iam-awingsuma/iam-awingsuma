@@ -12,31 +12,19 @@ Hi there! 👋 This is Aldwin — a passionate educator and developer who loves 
 
 ## 🔗 Connect with Me
 
-<div align="left">
+<p align="left">
   <a href="https://x.com/awingsumaEDUx" target="_blank">
-    <span>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png"
-        width="35"
-        style="background:black; border-radius:8px; padding:5px; border:0;" alt="X"/>
-    </span>
-  </a>&emsp;
-  <a href="https://linkedin.com/in/aldwinsumalinog" target="_blank">
-    <span>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-           width="40"
-           style="border:0;"
-           alt="LinkedIn"/>
-    </span>
-  </a>&emsp;
-  <a href="https://www.behance.net/aldwin-sumalinog" target="_blank">
-    <span>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"
-           width="40"
-           style="border:0;"
-           alt="Behance"/>
-    </span>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true" />
   </a>
-</div>
+
+  <a href="https://linkedin.com/in/aldwinsumalinog" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" />
+  </a>
+
+  <a href="https://www.behance.net/aldwin-sumalinog" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=behance&titles=true" />
+  </a>
+</p>
 
 ## 💡 Featured Project
 
@@ -60,31 +48,13 @@ https://github.com/iam-awingsuma/ExamInsight
 ## 🧰 My Tech Stack
 
 ##### 🖥️ PROGRAMMING & DEVELOPMENT
-<div align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="60" height="60"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="60" height="60"/>&emsp;
-  <img src="https://camo.githubusercontent.com/31e76367477f94271a897b5d58f1281c4413491958ec21412f4515f1140a07d6/68747470733a2f2f68616f73747265696e616d656e746f732e636f6d2e62722f696d616765732f637572736f732f53716c2e706e67" alt="SQLAlchemy" width="60" height="60"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="60" height="60"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="60" height="60"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript" width="60" height="60"/>
-</div>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,sqlalchemy,html,css,bootstrap,javascript&titles=true)
 
 ##### 📊 DATA & ANALYTICS
-<div align="left">
-  <img src="images/plotly.jpg" alt="Plotly" width="100" height="100"/>&emsp;
-  <img src="images/pandas.png" alt="Pandas" width="100" height="100"/>&emsp;
-  <img src="images/sqlite.png" alt="SQLite" width="100" height="100"/>&emsp;
-  <img src="images/excel.png" alt="Excel" width="80" height="80"/>&emsp;
-</div>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=plotly,pandas,sqlite,excel&titles=true)
 
 ##### ☁️ PLATFORM & TOOLS
-<div align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="Github" width="60" height="60"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="60" height="60"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="AWS" width="60" height="60"/>&emsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Light.svg" alt="Ubuntu" width="60" height="60"/>&emsp;
-</div>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,git,aws,ubuntu,vscode,bash,chrome,edge&titles=true)
 
 ##### 🏫 EDUCATION & CREATIVITY
 ![OpenAI](https://img.shields.io/badge/ChatGPT-OpenAI-brightgreen?style=for-the-badge)
