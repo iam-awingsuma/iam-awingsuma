@@ -45,7 +45,7 @@ https://github.com/iam-awingsuma/ExamInsight
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=plotly,pandas,sqlite,excel&titles=true)
 
 ##### ☁️ PLATFORM & TOOLS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,git,aws,ubuntu,vscode,bash,chrome,edge&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,git,aws,ubuntu,vscode,bash,chatgpt,chrome,edge&titles=true)
 
 ##### 🏫 EDUCATION & CREATIVITY
 ![OpenAI](https://img.shields.io/badge/ChatGPT-OpenAI-brightgreen?style=for-the-badge)
