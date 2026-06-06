@@ -34,7 +34,7 @@ ExamInsight is a **data-driven analytics platform** designed to help educators a
 
 https://github.com/iam-awingsuma/ExamInsight
 
-*You may ⭐ this repo... and feel free to send a message for suggestions/inquiries*
+*You may ⭐ this repo... and feel free to send a message with suggestions/inquiries*
 
 ## 🧰 My Tech Stack
 
